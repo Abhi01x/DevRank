@@ -1,6 +1,6 @@
 # DevRank - GitHub Profile Analyzer
 
-Live in - https://v0-shop-lens-features.vercel.app/
+Live in - https://v0-shop-lens-features.vercel.app/ 
 
 DevRank is a Next.js web application that analyzes GitHub profiles, providing insights, scores, and recommendations to help developers track and improve their contributions.
 
